@@ -25,3 +25,7 @@ Key entities:
 1. User management
 2. Property management
 3. booking system
+# API Security
+1. Authentication - Protect user data
+2. Authorization - Securing payments
+3. Rate limiting
