@@ -21,3 +21,7 @@ Key entities:
 3. Bookings - id, dates
 4. Reviews - id, date
 5. Payments - id
+# Feature Breakdown
+1. User management
+2. Property management
+3. booking system
