@@ -29,3 +29,5 @@ Key entities:
 1. Authentication - Protect user data
 2. Authorization - Securing payments
 3. Rate limiting
+# CI/CD Pipeline
+Automated pipelines for testing and deploying code changes.
