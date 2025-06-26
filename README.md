@@ -14,3 +14,10 @@ Celery
 Redis
 Docker
 CI/CD pipelines
+# Database Design
+Key entities: 
+1. Users - name, id, contact
+2. Properties - name, id, address
+3. Bookings - id, dates
+4. Reviews - id, date
+5. Payments - id
